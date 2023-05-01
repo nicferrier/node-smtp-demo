@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "mail": "^0.2.3",
-    "smtp-server": "^3.5.0"
+    "smtp-server": "^3.11.0"
   }
 }
